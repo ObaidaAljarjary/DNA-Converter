@@ -1,7 +1,4 @@
-# DNA-Converter
-Simple Text->DNA and DNA->Text Converters
-
-by: Obaida Ismail
+Simple Text-to-DNA Converter
 
 Algorithms
 TextToDNA:
